@@ -1,5 +1,5 @@
 library(dash)
-# library(dashHtmlComponents)
+library(dashHtmlComponents)
 library(tidyverse)
 library(plotly)
 
